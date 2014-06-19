@@ -1,0 +1,12 @@
+{
+  "name": "node-simple-file-server",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "NODE_ENV=test mocha"
+  },
+  "dependencies": {
+    "express": "3.4.7"
+  }
+}
